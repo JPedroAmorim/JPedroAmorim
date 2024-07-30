@@ -15,24 +15,13 @@ I am a passionate Senior iOS Engineer with extensive experience in developing an
 ### Skills
 
 #### iOS Technologies
-- Swift 5+
-- SwiftUI
-- UIKit
-- Combine
-- Objective-C
-- Cocoapods/SPM
+- Swift 5+, SwiftUI, UIKit, Combine, Objective-C, Cocoapods/SPM
 
 #### Architectures
-- MVVM
-- MVP
-- Clean
+- MVVM, MVP, Clean
 
 #### Tools
-- Fastlane
-- Gitlab CI/CD
-- Jenkins CI/CD
+- Fastlane, Gitlab CI/CD, Jenkins CI/CD
 
 #### Other Technologies
-- GraphQL
-- REST
-- Ruby
+- GraphQL, REST, Ruby
